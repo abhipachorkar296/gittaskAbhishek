@@ -1,10 +1,10 @@
-#iaur ncludabhisheke<iostream>
-using namqa krtatuespace std;
+#include <iostream>
+using namespace std;
 int main()
-{time pass mt kr
-	for(inmathsht i=gmarega1; i<=10 ;++i)
+{
+	for(int i=1; i<=10 ;++i)
 	{
-		cmehntkrout<<"  "<aurkr<i;
+		cout<<"  "<<i;
 	}
-	paise return INFINITY;
+    return 0;
 }
